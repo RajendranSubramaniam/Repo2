@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14145" started-at="2018-02-11T17:31:08Z" finished-at="2018-02-11T17:31:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14145" started-at="2018-02-11T17:31:08Z" finished-at="2018-02-11T17:31:22Z">
+      <class name="MyMavenProject.MyMavenProjectPractice.JenkinsTest">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:MyMavenProject.MyMavenProjectPractice.JenkinsTest@4590c9c3]" name="verifyTitle" duration-ms="14118" started-at="2018-02-11T17:31:08Z" finished-at="2018-02-11T17:31:22Z">
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- MyMavenProject.MyMavenProjectPractice.JenkinsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
