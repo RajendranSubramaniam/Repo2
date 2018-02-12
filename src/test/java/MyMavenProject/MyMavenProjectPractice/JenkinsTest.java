@@ -1,3 +1,5 @@
+//This is Selenium Automation Testing using Page Object Model.
+
 package MyMavenProject.MyMavenProjectPractice;
 
 import org.testng.Assert;
